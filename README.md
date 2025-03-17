@@ -1,9 +1,7 @@
 # Conversational-AI-Data-Science-Tutor-
-Here's a description for your README file:  
 
----
 
-# Conversational AI Data Science Tutor  
+
 
 ## Overview  
 The **Conversational AI Data Science Tutor** is an interactive chatbot designed to answer **data science-related queries** while maintaining conversational memory. It is powered by **Gemini 1.5 Pro**, built using the **LangChain framework** and **Streamlit** for the user interface.  
@@ -42,11 +40,5 @@ The **Conversational AI Data Science Tutor** is an interactive chatbot designed 
 3. Upload **CSV, text, or image files** for additional insights.  
 4. View the **conversation history** to track past queries.  
 
-## Future Enhancements  
-🚀 **Support for PDFs & other file formats**  
-🚀 **Code execution for Python-based queries**  
-🚀 **Integration with databases for real-world datasets**  
 
----
 
-Would you like to add anything else to the README? 😊
