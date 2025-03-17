@@ -3,7 +3,7 @@ import streamlit as st
 from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain.memory import ConversationBufferMemory
 from langchain.chains import ConversationChain
-os.environ["GOOGLE_API_KEY"] = "AIzaSyBwAxaTIxIHGZ9oiQRdvwbeRXQCDLjq724"
+os.environ["GOOGLE_API_KEY"] = "ur_apikey"
 # Initialize Gemini model
 llm = ChatGoogleGenerativeAI(model="gemini-1.5-pro", temperature=0.7)
 # Set up memory for conversation history
